@@ -1,6 +1,0 @@
-# Add these lines inside .gitignore
-images.npy
-labels.npy
-*.npy
-myenv/
-__pycache__/
